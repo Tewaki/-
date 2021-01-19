@@ -1,0 +1,66 @@
+h1, h2,h3,h4,h5,h6{
+    Margin: 0;
+    Padding: 0;
+    }
+
+body{
+    background-color: black;
+    Margin: 0;
+    Padding: 0;
+}
+
+.a{
+    color:  white;
+    background-color: black;
+    Margin: 0;
+    Padding: 0;
+    font-size: 56px
+}
+
+.b{
+    color: black;h1, h2,h3,h4,h5,h6{
+        Margin: 0;
+        Padding: 0;
+        }
+    
+    body{
+        background-color: black;
+        Margin: 0;
+        Padding: 0;
+    }
+    
+    .a{
+        color:  black;
+        background-color: black;
+        Margin: 0;
+        Padding: 0;
+        font-size: 56px
+    }
+    
+    .b{
+        color: black;
+        Margin: 0;
+        Padding: 0;
+        font-size: 23px;
+    }
+    
+    .hoancheunprogramma{
+        color:  black;
+        Margin: 0;
+        Padding: 0;
+        font-size: 30px;
+    }
+    
+
+
+
+.c{
+    border: solid
+}
+
+.warning{
+    color: royalblue;
+    Margin: 0;
+    Padding: 0;
+    font-size: 30px; 
+}
